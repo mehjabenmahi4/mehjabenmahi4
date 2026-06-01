@@ -11,7 +11,7 @@ I turn business problems into smart automated workflows —
 fast delivery, easy handoff.
 
 - AI Agent Development
-- MCP Server Workflows  
+- MCP Server Workflows
 - RAG Pipelines
 - Gmail · Notion · Google Tasks Automation
 
@@ -29,12 +29,7 @@ fast delivery, easy handoff.
 
 ## Connect
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
-
-]https://linkedin.com/in/mehjaben-akter-mahi
-
+[LinkedIn](https://linkedin.com/in/mehjaben-akter-mahi)  
 mehjabenmahi4@gmail.com
 
 <!--
